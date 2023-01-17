@@ -1,6 +1,8 @@
 # AMdEX_AF-KLM_Demo
 This repository contains the code used in my demonstration for Air France - KLM on the 17th of January 2023.
-The demo was part of the [AMDeX project](https://amdex.eu/) and was also recorded, the link can be found [here]().
+Air France - KLM is working on the initiative 'Artificial Intelligence for Sustainability' (AI4S).
+Air France - KLM also is a partner of the [AMDeX project](https://amdex.eu/).
+The recording of the demo can be found [here]().
 The demo is related to my [bachelor thesis](https://github.com/PepijndeReus/ThesisAI), supervised by [Ana Oprescu](https://www.uva.nl/profiel/o/p/a.m.oprescu/a.m.oprescu.html).
 
 ## Requirements
